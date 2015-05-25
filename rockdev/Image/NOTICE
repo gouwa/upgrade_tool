@@ -1,0 +1,2 @@
+Put images here and run follow command to package them:
+utils/upgrade/rockdev$ ./mkupdate.sh

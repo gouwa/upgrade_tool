@@ -1,0 +1,12 @@
+# NAME		Relative path
+#
+#HWDEF		HWDEF
+package-file	package-file
+bootloader	Loader.bin
+parameter	parameter
+resource	Image/resource.img
+boot		Image/boot.img
+linuxroot	Image/rootfs.img
+backup		RESERVED
+#update-script	update-script
+#recover-script	recover-script
